@@ -1,1 +1,10 @@
+#Synology DiskStation
 /.DS_Store
+
+#Backupfiles
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
