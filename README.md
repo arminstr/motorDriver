@@ -8,3 +8,7 @@ The driver is designed for board mount. THT pins are used for solder connection 
 Software features will be added continuously. Currently Microstepping and current control are implemented. Next added feature will be CAN communication. 
 
 ![Motor Driver CAD](docu/media/motorDriver_small.png)
+
+
+### Current State of Development
+![Closed Loop Stepper Motor GIF](docu/media/motorDriver.gif)
