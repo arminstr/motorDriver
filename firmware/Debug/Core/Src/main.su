@@ -1,0 +1,15 @@
+main.c:133:5:main	8	static
+main.c:189:6:SystemClock_Config	88	static
+main.c:231:6:loop	8	static
+main.c:294:6:initializePeripherals	24	static
+main.c:328:6:measure	40	static
+main.c:351:6:positionControl	32	static
+main.c:359:6:calculateSpeed	16	static
+main.c:369:6:speedControl	32	static
+main.c:391:6:currentControl	32	static
+main.c:414:6:voltageAdjust	24	static
+main.c:427:6:output	8	static
+main.c:464:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:485:6:errorHandling	8	static
+main.c:508:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:527:6:Error_Handler	8	static

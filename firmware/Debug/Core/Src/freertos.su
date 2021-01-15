@@ -1,0 +1,6 @@
+freertos.c:115:6:MX_FREERTOS_Init	8	static
+freertos.c:165:6:StartMeasureTask	48	static
+freertos.c:206:6:StartComTask	16	static
+freertos.c:225:6:StartControlTask	16	static
+freertos.c:244:6:StartOutputTask	16	static
+freertos.c:269:6:StartLedTask	16	static
